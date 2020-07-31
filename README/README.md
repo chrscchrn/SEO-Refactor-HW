@@ -4,8 +4,13 @@ Triliogy Education Services
 
 README: 
 
-    Building readable and idiomatic HTML/CSS is the first challenge I want to pursue in my first week at Rice University Bootcamp.
-    
+    Building readable and idiomatic HTML/CSS is the first challenge I am pursuing in my first week at Rice University Bootcamp.
+    To do this the in the best fashion the elements were renamed based upon their most useful characteristics.
+    The styling has been consolidated through eliminating redundancies. 
+    In this app, you can find a Heriseon's homepage where each of their services have a pitch.
+    There are buttons for each service in the navigation bar at the top which will auto-scroll to the desired section.
+    The rest of the page is used to further describe Heriseon's purpose. 
+
 
 # 01 HTML CSS Git: Code Refactor
 
