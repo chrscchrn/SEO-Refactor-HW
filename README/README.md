@@ -2,7 +2,10 @@ Christopher Cochran
 Rice University
 Triliogy Education Services
 
+README: 
 
+    Building readable and idiomatic HTML/CSS is the first challenge I want to pursue in my first week at Rice University Bootcamp.
+    
 
 # 01 HTML CSS Git: Code Refactor
 
